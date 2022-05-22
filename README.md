@@ -40,3 +40,4 @@ Dependency Injection
  -    Add localizable in the correct way
  -    Write more unit tests
  -    Wrapper class for the SnapKit
+ -    Handle dark theme (currently the app is forced to light theme)
