@@ -21,7 +21,7 @@ class RickAndMortyTests: XCTestCase {
     }
 
 
-    func testExample() {
+    func test_main_page() {
         sut.window = UIWindow()
         
         sut.setupIntitalPage()
